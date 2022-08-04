@@ -1,1 +1,19 @@
-
+[
+  {
+    "descrição": Eliminatórias Copa 2022",
+   "local": {
+    "nome": "Maracana",
+    "imagem": "TODO"
+  },
+  "mandante": {
+   "nome":"Brasil",
+   "força": 5,
+   "imagem": "TODO"
+  },
+  "visitante": {
+   "nome":"Brasil",
+   "força": 5,
+   "imagem": "TODO"
+  }
+}
+]
